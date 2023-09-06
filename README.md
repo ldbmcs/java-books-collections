@@ -1,13 +1,6 @@
 # java-books-collections
 本仓库仅用于存储个人收集的JAVA相关编程书籍，如有侵权，请联系删除！！！
 
-- 阿里云盘链接：https://www.aliyundrive.com/s/Xib3zPkGoAD
-- 百度网盘链接: https://pan.baidu.com/s/1FkES4RgCxOuOnuMBqr51lA 提取码: e75c
-- 蓝奏云链接：https://wwx.lanzoui.com/b0fefr3e 密码:1bpn
-- 天翼云链接：https://cloud.189.cn/t/aaya6naqe2Uf 访问码:0497
-- 谷歌网盘链接：https://drive.google.com/drive/folders/1xFVzGpdh_d8gRnT5m0pfxTX8hlUURLsS
-- MEGA网盘链接：https://mega.nz/#F!akRwRQTA!YW4BLNnXAVR9Lal6UQRanw
-
 # 推荐书单
 
 ## Java
